@@ -36,7 +36,7 @@
     <dependency>
       <groupId>oracle_jdbc</groupId>
       <artifactId>oracle_jdbc</artifactId>
-      <version>10.0</version>
+      <version>10.1.0.2.0/version>
       <type>jar</type>
       <url>http://www.oracle.com/</url>
       <properties>

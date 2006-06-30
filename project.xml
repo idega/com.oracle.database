@@ -5,7 +5,7 @@
   <name>Oracle Database support</name>
   <groupId>bundles</groupId>
   <artifactId>com.oracle.database</artifactId>
-  <currentVersion>10.1-SNAPSHOT</currentVersion>
+  <currentVersion>10.1.0.2.0</currentVersion>
   <organization/>
   <inceptionYear>2004</inceptionYear>
   <shortDescription>An idegaWeb bundle to support the Oracle database</shortDescription>
@@ -21,17 +21,6 @@
     </developer>
   </developers>
   <dependencies>
-    <dependency>
-      <groupId>bundles</groupId>
-      <artifactId>com.idega.core</artifactId>
-      <!--<version>1.9</version>-->
-      <version>SNAPSHOT</version>
-      <type>jar</type>
-      <url>http://www.idega.com/</url>
-      <properties>
-        <eclipse.dependency>true</eclipse.dependency>
-      </properties>
-    </dependency>
     <dependency>
       <groupId>oracle_jdbc</groupId>
       <artifactId>oracle_jdbc</artifactId>
